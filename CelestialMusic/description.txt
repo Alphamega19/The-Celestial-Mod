@@ -1,0 +1,8 @@
+This is the music mod meant to be played with "The Celestial Mod"
+
+Currently the mod adds four tracks to the game:
+
+The Great Beyond - Celestial Mod Main Theme (Created by me) (The track only plays via a music box you can craft)
+Magnetic Magnitude - Theme of the Magnitite Mistress (Created by HelplessHarp)
+Gelatine Revenge - Theme of Expert King Slime (Created by me)
+The Eye's Gaze - Theme of Expert Eye of Cthulhu(Created by me)

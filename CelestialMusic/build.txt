@@ -1,0 +1,3 @@
+displayName = The Celestial Mod Music Pack
+author = Alphamega
+version = 0.1
